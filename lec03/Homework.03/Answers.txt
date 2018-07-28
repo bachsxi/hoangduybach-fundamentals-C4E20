@@ -1,0 +1,2 @@
+Nested list= lists within a list
+yes, a list can store both integers and strings in it.

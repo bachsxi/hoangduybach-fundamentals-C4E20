@@ -1,0 +1,10 @@
+1. python
+   type()
+nhap bien vao trong ngoac de phan biet
+str
+int
+float
+2. 3 cases:
++) invalid sign: $,%,#,&, ...
++) number at the beginning: 123abc
++) python keyword: for, break, ...
